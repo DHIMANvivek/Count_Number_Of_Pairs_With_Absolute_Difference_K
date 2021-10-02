@@ -1,7 +1,5 @@
 # Count_Number_Of_Pairs_With_Absolute_Difference_K
 
-# House-Robber
-
 <!--
 Note - Any content mention below in `<!-- ->` blocks are just comments
 to help you fill-up the issue. It won't be visible in the actual issue after
